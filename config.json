@@ -1,0 +1,9 @@
+{
+  "window": {
+    "width": 1024,
+    "height": 800,
+    "minWidth": 800,
+    "minHeight": 600,
+    "icon": "./icons/64x64.png"
+  }
+}

@@ -22,8 +22,24 @@ npm install
 npm start
 ```
 
+## SASS
+
+Compile [SASS] files with 
+```bash
+npm run build-css
+```
+
+## Packaging
+
+Build a package with [Electron-Packager] via
+```bash
+npm run build-package
+```
+
 [ES6]: http://exploringjs.com/
 [React]: https://facebook.github.io/react/
 [Electron]: http://electron.atom.io/
 [Babel]: http://babeljs.io
+[SASS]: https://www.npmjs.com/package/node-sass
+[Electron-Packager]: http://npm.im/electron-packager
 
